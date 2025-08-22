@@ -7,10 +7,12 @@ I recently worked on building a comprehensive Uber Trip Analysis dashboard in Po
  ✔️ Vehicle Type performance (UberX, UberXL, Uber Green, etc.)
  ✔️ Most Frequent Pickup & Drop-off Points
  ✔️ Longest/Farthest Trips for Demand Optimization
+ 
 📊 Dashboard Highlights:
 Overview Analysis: Focused on overall performance, including booking value, payment type trends, and vehicle preferences.
 Time Analysis: Drill down into hourly, daily, and weekday vs. weekend booking trends to identify peak demand periods.
 Location Analysis: Identified hotspots for pickups/drop-offs, supporting driver allocation and dynamic pricing strategies.
+
 ✨ Power BI Features Implemented:
 Dynamic measures with disconnected tables
 Interactive slicers & filters (Date, City, Trip Type)
